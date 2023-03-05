@@ -1,0 +1,15 @@
+.wrapper {
+    // kontener
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: flex-start;
+    // pozycja i wielkosć
+    max-width: 1000px;
+    min-height: 100vh;
+    margin: 0 auto;
+    // wygląd
+    font-size: 2rem;
+    background-color: #fff;
+    box-shadow: 0 0 4px 0 #000;
+  }

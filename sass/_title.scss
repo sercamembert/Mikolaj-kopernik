@@ -1,0 +1,17 @@
+.title{
+    display: flex;
+    flex-basis: 90%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    &__text{
+        font-family: $special-font;
+        font-size: 1.5em;
+        @media(min-width: 425px){
+            font-size: 1.6em;
+        }
+        @media (min-width: 1024px) {
+            font-size: 2em;
+        }
+    }
+}
