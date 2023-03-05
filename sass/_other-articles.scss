@@ -27,12 +27,12 @@
         }
     }
     &__item1{
-        background-image: url(img/item1.png);
+        background-image: url(item1.png);
         @include articles-images;
     }
 
     &__item2{
-        background-image: url(img/item2.png);
+        background-image: url(item2.png);
         @include articles-images;
     }
     &__text{
