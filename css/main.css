@@ -170,7 +170,7 @@ html {
   background-size: 150%;
 }
 .other-articles__item2 {
-  background-image: url(/img/item2.png);
+  background-image: url(img/item2.png);
   padding: 10px;
   display: flex;
   background-size: 135%;
