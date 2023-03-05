@@ -155,7 +155,7 @@ html {
   }
 }
 .other-articles__item1 {
-  background-image: url(item1.png);
+  background-image: url('/item1.png');
   padding: 10px;
   display: flex;
   background-size: 135%;
@@ -170,7 +170,7 @@ html {
   background-size: 150%;
 }
 .other-articles__item2 {
-  background-image: url(item2.png);
+  background-image: url('/item2.png');
   padding: 10px;
   display: flex;
   background-size: 135%;
