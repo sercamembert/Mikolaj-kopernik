@@ -2,6 +2,7 @@
     border-bottom: 2px solid black;
     &:hover{
         border-bottom: 2px solid yellow;
+        cursor: pointer;
     }
 }
 @mixin articles-images{
